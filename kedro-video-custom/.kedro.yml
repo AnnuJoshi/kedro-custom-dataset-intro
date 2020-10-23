@@ -1,0 +1,6 @@
+context_path: kedro_video_custom.run.ProjectContext
+project_name: "kedro-video-custom"
+project_version: "0.16.5"
+package_name: "kedro_video_custom"
+hooks:
+  - kedro_video_custom.hooks.project_hooks
